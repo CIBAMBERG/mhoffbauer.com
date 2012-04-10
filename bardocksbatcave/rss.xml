@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+
+<channel>
+ <title>Bardock's Batcave</title>
+ <link>http://www.mhoffbauer.com/bardocksbatcave</link>
+ <item>
+  <title>Test Title 1</title>
+  <link>http://www.mhoffbauer.com/bardocksbatcave/page/1.html#test1
+  </link>
+  <content>This is the content</content>
+ </item>
+ <item>
+  <title>Test Title 2</title>
+  <link>http://www.mhoffbauer.com/bardocksbatcave/page/1.html#test2
+  </link>
+  <content>This is the other content. Oh yeah.</content>
+ </item>
+</channel>

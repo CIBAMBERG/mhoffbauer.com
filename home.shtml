@@ -1,0 +1,146 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+<title>Marius Hoffbauer's Website</title>
+
+<link rel="shortcut icon" type="image/x-icon" href="http://www.mhoffbauer.com/files/mfavicon.ico">
+
+<link rel="stylesheet" href="http://www.mhoffbauer.com/style.css">
+
+<link href='http://fonts.googleapis.com/css?family=Open+Sans:700,400' rel='stylesheet' type='text/css'>
+
+<!-- Mobile Site 
+<script type="text/javascript">
+if (screen.width <= 699) {
+document.location = "http://www.mhoffbauer.com/mobile/index.html";
+}
+</script>
+-->
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-1287778-3']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+<!-- iPhone Icon -->
+<link rel="apple-touch-icon" href="http://www.mhoffbauer.com/files/miphone.png"/>
+
+</head>
+
+<body id="home">
+
+<div id="wrap">
+ 
+<div id="header"> 
+  
+<h1>Marius Hoffbauer</h1>
+
+</div>
+
+<div id="main">
+  
+<p>Hi, I'm Marius. I live in Bamberg, Germany with my girlfriend Sarah and our dog, Yuki.</p>
+
+<p>I study Mathematics at the Open University in Milton Keynes, England. In my spare time I am studying Japanese, and I hope to visit Japan again soon.</p>
+
+<p>I am interested, among other things, in technology, language, feminism and philosophy.</p>
+
+<p>I enjoy travelling and reading, music such as Sufjan Stevens, The Magnetic Fields, The Smiths & Joanna Newsom, comics and movies. I also like cooking and writing.</p>
+
+<p>I have lived in Germany, the US and England, I speak both English and German fluently, and would like to live in an English speaking country again in the future.</p>
+
+<p>If you want to give me gifts or just like to read lists of things people want you can look at my <a href="http://www.mhoffbauer.com/files/wishlist.shtml" target="_blank">wishlist</a>. If you want to check out my CV here's my <a href="http://www.mhoffbauer.com/files/cvmhoffbauer.pdf" target="_blank">CV</a> (if you are lucky it's up to date).</p>
+
+<p>The best way to reach me is through my email <a href="mailto:m.hoffbauer@gmail.com">m.hoffbauer@gmail.com</a></p>
+
+<p>I have a couple of different blogs that I update more or less. My main blog is called <a href="http://www.mhoffbauer.com/bardocksbatcave/index.shtml" target="_blank">"Bardock's Batcave"</a> and I write about anything that I feel like there. I have a writing blog called <a href="http://www.mhoffbauer.com/iwriteaboutvampires/index.shtml" target="_blank">"I Write About Vampires"</a> and a Japanese Learning blog <a href="http://www.gatheringstatic.com/nihongo" target="_blank">"nihongo burogu"</a>.</p>
+
+<p>I have two blogs on tumblr: <a href="http://www.noiseandmultiplication.tumblr.com" target="_blank">"Noise and Multiplication"</a> which I mainly use as linkblog and for it's social features. I started using it as an alternative to the Google Reader Shared Items when they were recently killed off and so far quite like it. Additionally I have a blog called <a href="http://www.applentech.tumblr.com" target="_blank">"Apple and Tech"</a> a linkblog/reviewblog/fantasizingblog hybrid in which I mainly talk about Apple, but also other news and ideas about the consumer tech industry (hence the name).</p>
+
+<p>I have a <a href="http://www.youtube.com/user/Bardock42" target="_blank">youtube channel</a> that I sometimes use.</p>
+
+<p>Other profiles that I use less or for more personal things can be found <a href="http://www.mhoffbauer.com/files/aroundtheweb.shtml" target="_blank">here</a>.</p>
+
+<p>And I am on twitter as <a href="http://www.twitter.com/mhoffbauer">@mhoffbauer</a></p>
+<p></p>
+<p></p>
+  
+<h2></br>Twitter Updates</h2>  
+
+
+<!-- Twitter Widget --> 
+<script src="http://widgets.twimg.com/j/2/widget.js"></script>
+<script>
+new TWTR.Widget({
+  version: 2,
+  type: 'profile',
+  rpp: 3,
+  interval: 30000,
+  width: 500,
+  height: 200,
+  theme: {
+    shell: {
+      background: '#ffffff',
+      color: '#000000'
+    },
+    tweets: {
+      background: '#ffffff',
+      color: '#000000',
+      links: '#0035c7'
+    }
+  },
+  features: {
+    scrollbar: false,
+    loop: false,
+    live: false,
+    behavior: 'all'
+  }
+}).render().setUser('mhoffbauer').start();
+</script>
+  
+</div>
+
+ 
+<div id="sidebar">
+ 
+  <h2>Profiles</h2>
+   <p><a href="http://www.facebook.com/mhoffbauer" target="_blank">Facebook</a></p>
+   <p><a href="http://www.google.com/profiles/m.hoffbauer" target="_blank">Google Profile</a></p>
+   <p><a href="http://www.mhoffbauer.com/files/aroundtheweb.shtml" target="_blank">Other Profiles</a></p>
+ 
+  <h2>Blogs</h2>
+   <p><a href="http://www.mhoffbauer.com/iwriteaboutvampires/index.shtml" target="_blank">iwriteaboutvampires</a></p>
+   <p><a href="http://www.mhoffbauer.com/bardocksbatcave/index.shtml" target="_blank">Bardock's Batcave</a></p>
+   <p><a href="http://www.youtube.com/user/Bardock42" target="_blank">Youtube Channel</a></p>
+   <p><a href="http://www.noiseandmultiplication.tumblr.com" target="_blank">Noise and Multiplication (tumblr)</a></p>
+   <p><a href="http://www.applentech.tumblr.com" target="_blank">Apple and Tech (tumblr)</a></p>
+   <p><a href="http://www.mhoffbauer.com/nihongoburogu/index.html" target="_blank">nihongo burogu</a></p>
+  
+  <h2>Websites</h2>
+   <p><a href="http://www.cibamberg.de/" target="_blank">cibamberg.de</a></p>
+   <p><a href="http://www.gatheringstatic.com/" target="_blank">gatheringstatic.com (forum)</a></p>
+   <p><a href="http://www.iwcbamberg.de/" target="_blank">IWCBamberg.de</a></p>
+   <p><a href="http://www.dietz-hcf.de/" target="_blank">dietz-hcf.de</a></p>
+   <!--<p><a href="http://www.sancty.com/" target="_blank">sancty.com</a></p>-->
+ 
+  <h2>Other</h2>
+   <p><a href="http://www.mhoffbauer.com/files/wishlist.shtml">Wishlist</a></p>
+   <p><a href="http://www.mhoffbauer.com/files/cvmhoffbauer.pdf" target="_blank">CV</a></p>
+   <p><a href="http://www.mhoffbauer.com/mobile/index.html" target="_blank">Mobile Site</a></p>
+ 
+ </div>
+
+</body>
+</html>

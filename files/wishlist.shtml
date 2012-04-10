@@ -1,0 +1,58 @@
+﻿<!DOCTYPE html>
+<html>
+ 
+ <head>
+
+  <title>Marius' Wishlist</title>
+ <link
+   rel="stylesheet"
+   href="style.css">
+   
+   <!--
+   <link rel="shortcut icon" href="http://gatheringstatic.com/walshy/stuff/favicon.ico" /> 
+   -->
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-1287778-3']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+<!-- iPhone Icon -->
+<link rel="apple-touch-icon" href="http://www.mhoffbauer.com/files/miphone.png"/>
+
+<link rel="shortcut icon" type="image/x-icon" href="http://www.mhoffbauer.com/files/mfavicon.ico">
+
+ </head>
+
+<body>
+
+<h1>Marius' Wishlist</h1>
+ 
+<ul>
+<li><del>The Art of Computer Programming - Donald Knuth</del></li>
+<li>Messenger Bag</li>
+<li>Die Kinder von Gozlow</li>
+<li>ANSI Common Lisp</li>
+<li>Let Over Lambda</li>
+<li>Practical Common Lisp</li>
+<li><del>Land of Lisp</del></li>
+<li><del>Artificial Intelligence - A Modern Approach</del></li>
+<li>Artificial Intelligence - Patrick Winston</li>
+<li><del>Proofs from the Book</del></li>
+<li>Heimat - Edgar Reitz</li>
+<li>Surreal Numbers - Donald Knuth</li>
+</ul>
+
+ 
+</body>
+
+</html>
